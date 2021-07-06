@@ -55,16 +55,11 @@ p{
     width:55%;
 }
 .recipe-title{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    display: center;
     text-align: center;
-    padding: 0px;
     position: absolute;
     width: 706px;
     height: 159px;
     left: 367px;
     top: 1574px;
-    margin-top: 5%;
 }
