@@ -15,6 +15,12 @@ h2{
     line-height: 30px;
     color: rgb(88, 88, 88);
 }
+h3{
+    font-size: 30px;
+    font-weight: bolder;
+    line-height: 30px;
+    color: rgb(88, 88, 88);
+}
 p{
     font-size: 20px;
     color: gray;
@@ -62,7 +68,8 @@ p{
     height: 159px;
     left: 367px;
     top: 1574px;
-    margin-bottom: 5%;
+    margin-top: -10%;
+    margin-bottom: 1%;
 }
 .recipe{
     display: flex;
@@ -73,7 +80,7 @@ p{
     height: 528px;
     left: 101px;
     top: 1771px;
-    margin-top: 40%;
+    margin-top: 30%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -97,7 +104,6 @@ p{
     padding-left:10%;
     padding-right:0%;
     padding-top: 5%;
-
     text-align: center;
     left: 101px;
     top: 2428px;
@@ -111,5 +117,15 @@ p{
 #extra{
     color: black;
     padding-right: 150px;
-    
+}
+footer{
+    left: 0%;
+    right: 0%;
+    top: 91.47%;
+    bottom: 0%;
+    background-color: black;
+    margin-top: 5%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 30px;
 }
